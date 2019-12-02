@@ -1,0 +1,21 @@
+Este projeto foi construido para fins didáticos analisando base de dados disponibilisada pelo INEP em  http://inep.gov.br/microdados
+
+Para análise dos dados se faz necessário a instalação do Pandas Jupyter Notebook
+https://jupyter.org/
+
+Foi feita a análise dos dados do corpo docente das instituições de ensino superior recenseadas em 2018.
+Analise de docente em situação de deficiência:
+Visual
+Auditiva
+Fisica
+Intelectual
+
+e também idades dos mesmos.
+Foram avaliados docentes de 10 a 100 anos.
+
+
+O objetivo deste levantamento é o desenvolvimento didátido de manipulação de dados em grande/médio volume, a utilização da ferramenta e linguagem python3 de programação.
+Mestre responsável: Prof. Fernando Masanori 
+Faculdade: Fatec São José dos Campos Curso de Análise e desenvolvimento de Sistemas 
+Disciplina: Laboratório de Banco de Dados 
+Aluna responsável: Gisele Barba de Lima Lapa
